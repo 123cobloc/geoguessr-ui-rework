@@ -1,4 +1,4 @@
-# GeoGuessr Spectate UI Rework 🌍
+# GeoGuessr Spectate UI Rework
 
 A lightweight UserScript to clean up and customize the GeoGuessr Spectate interface.
 
