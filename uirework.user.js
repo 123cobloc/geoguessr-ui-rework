@@ -5,8 +5,13 @@
 // @description  Applies custom CSS on the spectate page
 // @author       123cobloc
 // @match        https://www.geoguessr.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=geoguessr.com
 // @grant        none
 // @run-at       document-start
+// @supportURL   https://github.com/123cobloc/geoguessr-ui-rework/issues
+// @downloadURL  https://github.com/123cobloc/geoguessr-ui-rework/raw/main/uirework.user.js
+// @updateURL    https://github.com/123cobloc/geoguessr-ui-rework/raw/main/uirework.user.js
+// @license      MIT
 // ==/UserScript==
 
 (function() {
