@@ -24,7 +24,7 @@ To run this script, you first need to install a browser extension that manages U
 #### 2. Install the Script
 Once your manager is installed, click the button below to add the script to your browser:
 
-[![Install Direct](https://img.shields.io/badge/Install-Direct-green?style=for-the-badge&logo=tampermonkey)](https://github.com/123cobloc/geoguessr-ui-rework/raw/main/uirework.user.js)
+[![Install Direct](https://img.shields.io/badge/Install-Direct-green?style=for-the-badge&logo=tampermonkey)](https://github.com/123cobloc/geoguessr-spect-ui-rework/raw/main/uirework.user.js)
 
 *Note: A new tab will open. Click **"Install"** in the Tampermonkey dashboard to finish.*
 

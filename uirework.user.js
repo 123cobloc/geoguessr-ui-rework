@@ -10,9 +10,9 @@
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
 // @run-at       document-idle
-// @supportURL   https://github.com/123cobloc/geoguessr-ui-rework/issues
-// @downloadURL  https://github.com/123cobloc/geoguessr-ui-rework/raw/main/uirework.user.js
-// @updateURL    https://github.com/123cobloc/geoguessr-ui-rework/raw/main/uirework.user.js
+// @supportURL   https://github.com/123cobloc/geoguessr-spect-ui-rework/issues
+// @downloadURL  https://github.com/123cobloc/geoguessr-spect-ui-rework/raw/main/uirework.user.js
+// @updateURL    https://github.com/123cobloc/geoguessr-spect-ui-rework/raw/main/uirework.user.js
 // @license      MIT
 // ==/UserScript==
 
