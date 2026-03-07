@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoGuessr Spectate UI Rework
 // @namespace    123cobloc
-// @version      1.2
+// @version      1.2.1
 // @description  Applies custom CSS on the spectate page
 // @author       123cobloc
 // @match        https://www.geoguessr.com/*
@@ -63,6 +63,10 @@
 
             div[class*="spectate-map_buttonWrapper"] {
                 bottom: calc(10svw / -6.3) !important;
+            }
+            
+            div[class*="spectate-damage-animation_distanceContainer"] {
+                top: 0svh !important;
             }
         `
     };
